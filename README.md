@@ -24,7 +24,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "Tracmap/API": "*@dev"
+    "tracmap/api": "*@dev"
   }
 }
 ```
