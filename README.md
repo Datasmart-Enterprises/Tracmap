@@ -20,7 +20,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/Tracmap/API.git"
+      "url": "https://github.com/Datasmart-Enterprises/Tracmap.git"
     }
   ],
   "require": {
